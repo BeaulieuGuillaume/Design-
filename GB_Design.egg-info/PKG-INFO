@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: GB-Design
+Version: 0.1
+Summary: Python module for GDS drawings
+Author: Guillaume Beaulieu
+Author-email: guillaume.beaulieu@epfl.ch
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Dec  5 14:43:39 2022
+
+@author: beaulieu
+"""
+
+
+
